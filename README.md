@@ -1,7 +1,8 @@
 
-
 # Enschede Roleplay|Hard RP  – Algemene Plaatselijke Verordening (APV)
 *Laatste update: 14 mei 2026*
+
+Direct link voor delen: https://github.com/Herenveen-Rolepay/Enschede-Roleplay-Hard-RP/blob/main/README.md
 
 ## Inleiding
 Deze APV is van toepassing binnen Enschede Roleplay| Hard RP .
@@ -225,3 +226,7 @@ Sanctie: Categorie 8–9
 ## 6.5 Onnodige Tickets
 Onnodige tickets verboden.  
 Sanctie: Korte ban
+=======
+Bekijk de volledige regels: [APV.md](APV.md)  
+Direct link: https://github.com/Herenveen-Rolepay/Enschede-Roleplay-Hard-RP/blob/main/APV.md
+>>>>>>> 1124c31 (Add direct GitHub link to APV.md in README)
