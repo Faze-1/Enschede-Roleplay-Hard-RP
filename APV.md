@@ -1,5 +1,5 @@
 # Enschede Roleplay – Algemene Plaatselijke Verordening (APV)
-*Laatste update: [datum invullen]*
+*Laatste update: 14 mei 2026*
 
 ## Inleiding
 Deze APV is van toepassing binnen Enschede Roleplay.
@@ -11,6 +11,15 @@ Deze APV is van toepassing binnen Enschede Roleplay.
 - Staff mag sancties opleggen bij situaties die niet expliciet in deze APV staan, maar wel tegen de geest van de regels ingaan.
 - Alle beslissingen worden genomen op basis van feiten, logs en/of staff-perspectief.
 - Het is verplicht om POV (clip/recording) te maken voor eigen bescherming.
+
+## Inhoudsopgave
+- [Sanctiesysteem](#sanctiesysteem)
+- [Artikel 1 – Cheats & Misbruik](#artikel-1--cheats--misbruik)
+- [Artikel 2 – Roleplay Regels](#artikel-2--roleplay-regels)
+- [Artikel 3 – Voertuigen](#artikel-3--voertuigen)
+- [Artikel 4 – Wapens](#artikel-4--wapens)
+- [Artikel 5 – Algemeen](#artikel-5--algemeen)
+- [Artikel 6 – Staff & Support](#artikel-6--staff--support)
 
 # Sanctiesysteem
 | Categorie | Straf                         |
