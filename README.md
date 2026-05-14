@@ -1,8 +1,8 @@
 
-# Enschede Roleplay|Hard RP  – Algemene Plaatselijke Verordening (APV)
+# Enschede Roleplay | Hard RP
 *Laatste update: 14 mei 2026*
 
-Direct link voor delen: https://github.com/Faze-1/Enschede-Roleplay-Hard-RP/blob/main/README.md
+Direct link: https://github.com/Faze-1/Enschede-Roleplay-Hard-RP
 
 ## Inleiding
 Deze APV is van toepassing binnen Enschede Roleplay| Hard RP .
